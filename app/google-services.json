@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879340190171",
+    "project_id": "mushrooms-classification-7dc8f",
+    "storage_bucket": "mushrooms-classification-7dc8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879340190171:android:494f2118825b7a18d80ffe",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879340190171-bbjlmi3kja926bnnl7u6mrbrf88g1csd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzx0I7Jjtd0dr8cNRdaH12lemZF5mdAgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879340190171-bbjlmi3kja926bnnl7u6mrbrf88g1csd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
